@@ -1,0 +1,35 @@
+.wrapper{
+	overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 50%;
+	height: 200px;
+	background-color: darkred;
+}
+.contact{
+	float: right;
+	width: 50%;
+	height: 200px;
+	background-color: darkgreen;
+}
+.wrapper{
+	overflow: hidden;
+}
+.box{
+	float: left;
+	height: 100px;
+	width: 33.33%;
+}
+.red{background-color: red;
+	}
+	.green{
+		background-color: green;
+	}
+	.blue{
+		background-color: blue;
+	}
+	.footer{
+		height: 100px;
+	    background-color: deepskyblue;
+	}
